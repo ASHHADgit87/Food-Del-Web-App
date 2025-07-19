@@ -19,18 +19,6 @@ A modern, responsive food delivery web application built with React.js. Tomato a
 - **Routing:** React Router
 - **State Management:** React Context API
 
-## Folder Structure
-
-```
-src/
-  assets/         # Images and static assets
-  components/     # Reusable UI components (Navbar, Footer, Header, etc.)
-  context/        # React Context for global state (cart, food list)
-  pages/          # Main pages (Home, Cart, Placeorder)
-  App.jsx         # Main app component
-  main.jsx        # Entry point
-```
-
 ## Getting Started
 
 https://food-del-web-app-three.vercel.app/
