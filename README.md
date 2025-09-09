@@ -1,4 +1,4 @@
-# 🍅 Tomato Food Delivery Web App
+# Tomato Food Delivery Web App
 
 A modern, responsive food delivery web application built with React.js. Tomato allows users to browse a diverse menu, add items to their cart, and place orders with a seamless checkout experience. The app features a clean UI, smooth navigation, and is optimized for both desktop and mobile devices.
 
