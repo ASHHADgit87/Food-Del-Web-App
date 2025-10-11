@@ -23,7 +23,7 @@ A modern, responsive food delivery web application built with React.js. Tomato a
 
 https://food-del-web-app-three.vercel.app/
 
-## 👨‍💻 Author
+## 👨‍💻 Creator & Developer
 
 - **Muhammad Ashhadullah Zaheer**  
 - 🔗 LinkedIn: [Muhammad Ashhadullah Zaheer](https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/)  
